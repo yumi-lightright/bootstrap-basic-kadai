@@ -1,0 +1,12 @@
+/* 背景色とボーダーを無効化 */
+.carousel-control-prev{
+    background-color: transparent;
+    border: none;
+}
+
+.carousel-control-next{
+    background-color: transparent;
+    border: none;
+}
+  
+  
