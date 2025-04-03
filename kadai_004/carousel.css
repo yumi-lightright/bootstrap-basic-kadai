@@ -1,0 +1,10 @@
+.body{
+    .target-class {
+        display: none; /* 非表示にする */
+      }
+      
+      .or-reset {
+        display: inline; /* インライン表示に変更 */
+      }
+      
+}
